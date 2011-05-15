@@ -1,0 +1,4 @@
+This is stupid Mixi.jp scraper. 
+Mixi.jp uses very clever and complicated javascript.
+So I have to use watir.
+It is very slow due to watir.
